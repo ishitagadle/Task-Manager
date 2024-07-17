@@ -3,8 +3,13 @@ This project is a full-featured task management application designed to help use
 
 # Features
 User Authentication
+
 Task Creation
+
 Task Editing
+
 Task Deletion
+
 Deadline Management
+
 Check status
