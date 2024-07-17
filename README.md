@@ -13,3 +13,6 @@ Task Deletion
 Deadline Management
 
 Check status
+
+# Contact
+If you have any questions or suggestions, feel free to open an issue or contact me at [ishitagadle@gmail.com].
