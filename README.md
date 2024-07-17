@@ -1,4 +1,4 @@
-# TaskManagaer
+# Task Managaer
 This project is a full-featured task management application designed to help users organize and prioritize their tasks efficiently. 
 
 # Features
